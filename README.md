@@ -12,17 +12,12 @@
 <p align="left" >
 Me chamo <b> Alex Oliveira</b>.
 </p>
-<p align="left" >
-Faallaa Maker, meu nome é Alex Oliveira, tenho 20 anos.<br />
-Sou Estudante de Ciencias da Computação, Estou no meu segundo ano de cuso! </b>. <br/>
-</p>
-<a href="https://www.linkedin.com/in/alex-oliveira-a56a92289/" target="_blank">
+  <a href="https://www.linkedin.com/in/alex-oliveira-a56a92289/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <p align="left" >
-<ul>
-  <li><a href="https://instagram.com/_alexx_liima/">Instagram </a></li>
-</ul>
+Faallaa Maker, meu nome é Alex Oliveira, tenho 20 anos.<br />
+Sou Estudante de Ciencias da Computação, Estou no meu segundo ano de cuso! </b>. <br/>
 </p>
   
 - 👾 Meus hobbies são: 
@@ -35,7 +30,8 @@ Sou Estudante de Ciencias da Computação, Estou no meu segundo ano de cuso! </b
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para alexoliveira.lima111@gmail.com.
 
- <div>
+<br> 
+<div>
    <a href="https://github.com/alexxxolilima">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexxxolilima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexxxolilima&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -45,13 +41,4 @@ Sou Estudante de Ciencias da Computação, Estou no meu segundo ano de cuso! </b
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
- 
-### Pra acessar minhas redes sociais segue o link a baixo!
- 
-<div> 
-  <a href="https://instagram.com/_alexx_liima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alex-oliveira-a56a92289" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
