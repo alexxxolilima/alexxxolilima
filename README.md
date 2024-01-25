@@ -17,16 +17,16 @@ Me chamo <b> Alex Oliveira</b>.
 </a>
 <p align="left" >
 Faallaa Maker, meu nome é Alex Oliveira, tenho 20 anos.<br />
-Sou Estudante de Ciencias da Computação, Estou no meu segundo ano de cuso! </b>. <br/>
+Sou Estudante de Ciencias da Computação, Estou no meu segundo ano de cuso! </b> <br/>
 </p>
   
 - 👾 Meus hobbies são: 
-  - Academia
-  - Caminhar;
-  - To Aprendendo tocar Violão e Contra-baixo ; 
-  - Ir em shoppins;
-  - Jogar no meu Xbox series;
-  - Estudar Python;
+  - 💪🏻Academia
+  - 🚶Caminhar;
+  - 🎸To Aprendendo tocar Violão e Contra-baixo ; 
+  - 🏬Ir em shoppins;
+  - 🎮Jogar no meu Xbox series;
+  - 📚Estudar Python;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para alexoliveira.lima111@gmail.com.
 
