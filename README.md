@@ -53,15 +53,6 @@ Landing page comercial criada para uma marca de café artesanal, com foco em apr
 ### 🔹 Automações e ferramentas internas
 Projetos voltados para reduzir retrabalho, padronizar processos, organizar informações e apoiar decisões com dashboards e indicadores.
 
----
-
-## 📊 GitHub
-
-![Alex GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexxxolilima&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alexxxolilima&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 📫 Contato
 
